@@ -1,0 +1,30 @@
+[
+  {
+    "email": "user1@gmail.com",
+    "goal": "Strength & Muscle Gain",
+    "times": [
+      "Evening",
+      "Late Night",
+      "Weekends"
+    ],
+    "location": "downtown "
+  },
+  {
+    "email": "user1@gmail.com",
+    "goal": "Strength & Muscle Gain",
+    "times": [
+      "Late Night",
+      "Weekends"
+    ],
+    "location": "downtown"
+  },
+  {
+    "email": "user12gmail.com",
+    "goal": "Strength & Muscle Gain",
+    "times": [
+      "Late Night",
+      "Weekends"
+    ],
+    "location": "downtown"
+  }
+]
